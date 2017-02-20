@@ -16,6 +16,7 @@
 		7D827C221E5AC93400750E17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D827C201E5AC93400750E17 /* LaunchScreen.storyboard */; };
 		7D827C2D1E5AC93400750E17 /* GitDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D827C2C1E5AC93400750E17 /* GitDemoTests.m */; };
 		7D827C381E5AC93400750E17 /* GitDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D827C371E5AC93400750E17 /* GitDemoUITests.m */; };
+		7D827C4E1E5AD51A00750E17 /* MapForItenerary.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D827C4D1E5AD51A00750E17 /* MapForItenerary.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		7D827C331E5AC93400750E17 /* GitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D827C371E5AC93400750E17 /* GitDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitDemoUITests.m; sourceTree = "<group>"; };
 		7D827C391E5AC93400750E17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D827C4C1E5AD51A00750E17 /* MapForItenerary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapForItenerary.h; sourceTree = "<group>"; };
+		7D827C4D1E5AD51A00750E17 /* MapForItenerary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapForItenerary.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +116,8 @@
 				7D827C231E5AC93400750E17 /* Info.plist */,
 				7D827C1B1E5AC93400750E17 /* GitDemo.xcdatamodeld */,
 				7D827C0F1E5AC93400750E17 /* Supporting Files */,
+				7D827C4C1E5AD51A00750E17 /* MapForItenerary.h */,
+				7D827C4D1E5AD51A00750E17 /* MapForItenerary.m */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -282,6 +287,7 @@
 				7D827C171E5AC93400750E17 /* ViewController.m in Sources */,
 				7D827C1D1E5AC93400750E17 /* GitDemo.xcdatamodeld in Sources */,
 				7D827C141E5AC93400750E17 /* AppDelegate.m in Sources */,
+				7D827C4E1E5AD51A00750E17 /* MapForItenerary.m in Sources */,
 				7D827C111E5AC93400750E17 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
